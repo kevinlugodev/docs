@@ -1,1 +1,5 @@
-# docs
+# GUIDE FOR FULL STACKS APPLICATIONS
+
+- GOLANG
+- ANGULAR
+- Deploy Apps using AWS EC2
